@@ -3865,7 +3865,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1901453648}
   m_Enabled: 1
-  m_VideoClip: {fileID: 0}
+  m_VideoClip: {fileID: 32900000, guid: b89f8e47db6eded4f8447df587605ebf, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -3875,15 +3875,15 @@ VideoPlayer:
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 3
   m_AspectRatio: 2
-  m_DataSource: 1
+  m_DataSource: 0
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
-  m_AudioOutputMode: 2
+  m_AudioOutputMode: 0
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://r3---sn-q4flrnld.googlevideo.com/videoplayback?expire=1728000473&ei=ed3-Zq6dFJ2K2_gP76GxiQ4&ip=198.98.59.215&id=o-AIDg-S0UhO6mK2nApEPmbGm-mFtpy_acfXt5e76-Jus0&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&siu=1&bui=AXLXGFQN5A34fTXYmZF5J5UqAiThbB1PuAH-ieKzGwBZi6FTwTMiajSA0RDZtfL4_-aW4RxF&spc=54MbxS4hYzM0MPmA1ocziKx5up1b0kMzgyQfMyHQpF35UdnKrprVENyAfI31xgGG-G0oHgk&vprv=1&svpuc=1&mime=video%2Fwebm&ns=AZFeduSzCCNj8Kr4zX5XchIQ&rqh=1&gir=yes&clen=33415392&dur=352.476&lmt=1709149088107974&keepalive=yes&fexp=51300760&c=WEB&sefc=1&txp=4535434&n=z_1HHv9ej3_5Ww&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgTXxsYvWXUiDW2tCmOmLKtGXsLp3NPG2Pq31HcQBVog4CIGjxT923pqB08NoxLcDVEEDS_LC1s83E4Ofw0F5BxSRt&pot=Ml8PZEBb7HtkIA9YX85AN9SSETBxc9wRLJK_NTsJnYhLCbbHTJVTwu_ccfR3hfVdHKoEPcXq_E9-TpfWjUN84R9BfXpABRyjVf5ZRpt3dOiiuyvigfCrQilQS3yG27Bqvg%3D%3D&range=0-&cms_redirect=yes&mh=Mt&mip=130.70.15.5&mm=31&mn=sn-q4flrnld&ms=au&mt=1727978460&mv=m&mvi=3&pl=24&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=ABPmVW0wRQIhAOAH6jmFR-eTl7QrPDQhpe2fyZheZh7Rq2Fu0frV41sjAiAeotv4ft-h8GbGSzTD4aS1eH4go-Ci6UDcJ1MD8uXSIQ%3D%3D
+  m_Url: https://www.youtube.com/watch?v=Q2sPLNtpne4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
